@@ -87,13 +87,9 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-I’m a Senior UX/UI Designer with extensive experience in designing digital products and shaping UX/UI strategies. I combine strategic thinking with a hands-on design approach, bridging product vision, user needs, and business goals to create meaningful, intuitive, and effective digital experiences.
+I design digital products from strategy to execution.
 
-I work across the entire product design process, from discovery, research, and product strategy to user flows, interaction design, prototyping, visual design, and design systems. I enjoy tackling complex challenges, identifying opportunities, and turning ideas into clear, scalable solutions.
-
-My approach combines a big-picture perspective with a strong attention to detail. I collaborate closely with product managers, developers, and stakeholders to define product direction, challenge assumptions, and bring ideas to life through thoughtful, user-centered design.
-
-For me, great design goes beyond the interface. It’s about creating products that solve real problems, deliver value, and evolve with the needs of both users and businesses.
+As a Senior UX/UI Designer, I combine product thinking, UX strategy, and hands-on design to turn complex challenges into intuitive, impactful digital experiences.
     `,
     image: "/alejandro-big.jpg",
   },
