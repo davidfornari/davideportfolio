@@ -87,9 +87,13 @@ export const SITE_CONTENT: SiteContent = {
   ],
   about: {
     description: `
-      Hi, I’m Alejandro Múnez, a passionate Mobile and Web Developer with a knack for crafting seamless digital experiences. With a strong background in both Android and iOS development, as well as front-end web technologies, I thrive in the intersection where creativity meets technology.
+I’m a Senior UX/UI Designer with extensive experience in designing digital products and shaping UX/UI strategies. I combine strategic thinking with a hands-on design approach, bridging product vision, user needs, and business goals to create meaningful, intuitive, and effective digital experiences.
 
-      Over the years, I’ve honed my skills in building robust, user-friendly applications that not only meet the needs of users but also push the boundaries of what’s possible. My projects range from innovative mobile applications to responsive web designs, all with a focus on performance, security, and scalability.
+I work across the entire product design process, from discovery, research, and product strategy to user flows, interaction design, prototyping, visual design, and design systems. I enjoy tackling complex challenges, identifying opportunities, and turning ideas into clear, scalable solutions.
+
+My approach combines a big-picture perspective with a strong attention to detail. I collaborate closely with product managers, developers, and stakeholders to define product direction, challenge assumptions, and bring ideas to life through thoughtful, user-centered design.
+
+For me, great design goes beyond the interface. It’s about creating products that solve real problems, deliver value, and evolve with the needs of both users and businesses.
     `,
     image: "/alejandro-big.jpg",
   },
