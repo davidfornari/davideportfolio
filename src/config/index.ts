@@ -2,9 +2,9 @@ import type { SiteConfig, SiteContent } from "../types";
 
 export const SITE_CONFIG: SiteConfig = {
   title: "Davide Fornari — Ux Ui product designer",
-  author: "Alejandro Múnez Cuntez",
+  author: "Davide Fornari",
   description:
-    "Software Engineer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+    "From product strategy to pixel-perfect execution",
   lang: "en",
   siteLogo: "/alejandro-small.jpg",
   navLinks: [
@@ -25,11 +25,11 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Davide Fornari",
+    specialty: "Ux Ui product designer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
-    email: "example@email.com",
+      "From product strategy to pixel-perfect execution.",
+    email: "fornari.davide@gmail.com",
   },
   experience: [
     {
